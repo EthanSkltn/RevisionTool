@@ -1,0 +1,5 @@
+SELECT TOP (1000) [account_id]
+      ,[username]
+      ,[password]
+      ,[email]
+  FROM [NEA project].[dbo].[Accounts]
